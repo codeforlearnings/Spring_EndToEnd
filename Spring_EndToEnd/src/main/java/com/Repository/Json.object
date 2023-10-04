@@ -1,0 +1,43 @@
+
+
+{
+	"id": 1,
+	"name": "Male"
+}
+{
+	"id": 2,
+	"name": "FeMale"
+}
+
+{
+	"id": 1,
+	"name": "BE"
+}
+{
+	"id": 2,
+	"name": "MCA"
+}
+{
+	"id": 3,
+	"name": "MBA"
+}
+
+
+{
+	"id": 101,
+	"firstName": "abc",
+	"lastName": "xyz",
+	"age": 32,
+	"genderId": 1,
+	"educationId": 1
+}
+
+{
+	"id": 102,
+	"firstName": "vijay",
+	"lastName": "test",
+	"age": 33,
+	"genderId": 1,
+	"educationId": 2
+}
+
